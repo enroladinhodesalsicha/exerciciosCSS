@@ -1,0 +1,28 @@
+.lista {
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    background-color: #fad366;
+}
+
+
+.paragrafo {
+    font-size: 50px;
+}
+
+body {
+    background-color: #7c5dba;
+}
+
+.fotos{
+
+    display: inline-block;
+    width: 200px;
+    height: auto;
+    gap: 10px;
+}
+h1 {
+    color:aquamarine
+}
+p{
+    font-size: 30px;
+}
